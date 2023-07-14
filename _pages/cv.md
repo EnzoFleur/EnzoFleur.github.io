@@ -11,21 +11,21 @@ redirect_from:
 
 Formation
 ======
-**2018-2019** <i>Saclay (91)</i> M2 Data Science X-Paris Saclay en parallèle
+**2018-2019** <i>Saclay (91)</i> M2 Data Science X-Paris Saclay en parallèle<br>
 &emsp; - Machine Learning Avancé, Deep Learning, Reinforcement Learning, Online Learning, Bayesian Learning, Modèles à effets mixtes, ...
 
-**2015-2019** <i>Palaiseau (91)</i> Cycle ingénieur ENSTA Paris
+**2015-2019** <i>Palaiseau (91)</i> Cycle ingénieur ENSTA Paris<br>
 &emsp; - 1ère année : Tronc commun mathématiques, informatique, mécanique
 &emsp; - 2ème année : Simulation et Ingénierie Mathématiques
 &emsp; - 3ème année : Science et Optimisation des Données (Module électif : Biologie et Santé)
 
-**2013-2015** <i>Paris (75)</i> Classe préparatoire au lycée Louis Le Grand
+**2013-2015** <i>Paris (75)</i> Classe préparatoire au lycée Louis Le Grand<br>
 &emsp; - PSI$^*$ Physique et Sciences de l'Ingénieur 
 
-**2012-2013** <i>Dijon (21)</i> Classe préparatoire au lycée Carnot
+**2012-2013** <i>Dijon (21)</i> Classe préparatoire au lycée Carnot<br>
 &emsp; - PCSI Physique Chimie et Sciences de l'Ingénieur
 
-Work experience
+Expériences professionnelles
 ======
 * Summer 2015: Research Assistant
   * Github University
