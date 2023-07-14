@@ -64,7 +64,7 @@ Formation
   
 Centre d'intérêts
 ======
-**Sports** Handball en compétition, badminton, haute-montagne et bikepacking. Préparation d'un Iron-Man.<br>
+**Sports** Handball en compétition, haute-montagne et bikepacking. Préparation d'un Iron-Man.<br>
 **Musique** Piano (15 ans). Ukulélé.
 
 Publications
