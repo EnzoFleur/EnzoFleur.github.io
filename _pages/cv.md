@@ -18,7 +18,7 @@ Expériences professionnelles
 **2020-2023** **Doctorat en Informatique au Laboratoire ERIC (Université Lyon 2)** <i>Lyon (69)</i><br>
 Structuration automatique des données de la littérature francophone nativement numérique<br>
 &emsp; - <i>Writing Style Author Embedding Evaluation</i> [lien vers la publication](https://aclanthology.org/2021.eval4nlp-1.9.pdf)<br>
-&emsp; - <i>Capturing Style in Author and Document Representation</i> [en cours de soumission](https://enzofleur.github.io/files/ICTAI_2023_VADES.pdf)<br>
+&emsp; - <i>Capturing Style in Author and Document Representation</i> [en cours de soumission](https://github.com/EnzoFleur/EnzoFleur.github.io/blob/master/files/ICTAI_2023_VADES.pdf)<br>
 &emsp; - Représentant des doctorants au conseil de laboratoire<br>
 &emsp; - Participation au projet LIFRANUM
 
