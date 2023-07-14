@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Enzo Terreau"
 title_separator          : "-"
 name                     : &name "Enzo Terreau"
-description              : &description "PhD student in Computer Science & Applied Mathematics"
+description              : &description "PhD student in Computer Science"
 url                      : https://enzofleur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "enzofleur.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Enzo Terreau"
   avatar           : "bio_photo_enzo.png"
-  bio              : "PhD student in Computer Science and Applied Mathematics"
+  bio              : "PhD student in Computer Science"
   location         : "Lyon"
   employer         :  "ERIC Lab, Lyon 2 University"
   pubmed           : 
