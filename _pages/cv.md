@@ -12,11 +12,11 @@ redirect_from:
 Formation
 ======
 **2018-2019** <i>Saclay (91)</i> M2 Data Science X-Paris Saclay en parallèle<br>
-&emsp; - Machine Learning Avancé, Deep Learning, Reinforcement Learning, Online Learning, Bayesian Learning, Modèles à effets mixtes, ...
+&emsp; - Machine Learning Avancé, Deep Learning, Reinforcement Learning, Online Learning, Bayesian Learning, ...
 
 **2015-2019** <i>Palaiseau (91)</i> Cycle ingénieur ENSTA Paris<br>
-&emsp; - 1ère année : Tronc commun mathématiques, informatique, mécanique
-&emsp; - 2ème année : Simulation et Ingénierie Mathématiques
+&emsp; - 1ère année : Tronc commun mathématiques, informatique, mécanique<br>
+&emsp; - 2ème année : Simulation et Ingénierie Mathématiques<br>
 &emsp; - 3ème année : Science et Optimisation des Données (Module électif : Biologie et Santé)
 
 **2013-2015** <i>Paris (75)</i> Classe préparatoire au lycée Louis Le Grand<br>
