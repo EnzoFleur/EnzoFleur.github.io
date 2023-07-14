@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience"
+title: "Enseignement"
 collection: teaching
-type: "Undergraduate course"
+type: "Contractuel"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Université Lyon 2, France"
 date: 2020-09-01
