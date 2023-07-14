@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Université Lyon 2, France"
+date: 2020-09-01
+location: "Lyon, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Dans le cadre de mon doctorat, je suis également intervenu en tant que chargé de TD ou sur l'encadrement de projet sur différentes formations.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Statistiques descriptives 1 & 2 (L2 MIASHS)
+- Programmation Web (L3 Informatique)
+- Intelligence Artificielle (L3 Informatique)
+- Encadrement d'un projet du Master Humanités Numériques
