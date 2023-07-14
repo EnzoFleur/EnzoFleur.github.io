@@ -9,21 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Formation
+Thématiques de recherche
 ======
-**2018-2019** **M2 Data Science X-Paris Saclay en parallèle** <i>Saclay (91)</i><br>
-&emsp; - Machine Learning Avancé, Deep Learning, Reinforcement Learning, Online Learning, Bayesian Learning, ...
-
-**2015-2019** **Cycle ingénieur ENSTA Paris** <i>Palaiseau (91)</i><br>
-&emsp; - 1ère année : Tronc commun mathématiques, informatique, mécanique<br>
-&emsp; - 2ème année : Simulation et Ingénierie Mathématiques<br>
-&emsp; - 3ème année : Science et Optimisation des Données (Module électif : Biologie et Santé)
-
-**2013-2015** **Classe préparatoire au lycée Louis Le Grand** <i>Paris (75)</i><br>
-&emsp; - PSI$^*$ Physique et Sciences de l'Ingénieur 
-
-**2012-2013** **Classe préparatoire au lycée Carnot** <i>Dijon (21)</i><br>
-&emsp; - PCSI Physique Chimie et Sciences de l'Ingénieur
+Apprentissage automatique, Deep Learning, Natural Language Processing, Large Language Models, Explainability, Optimisation
 
 Expériences professionnelles
 ======
@@ -58,17 +46,27 @@ Projet autour de l'impact des risques climatiques sur le secteur minier<br>
 &emsp; - Méthode des copulas appliquées aux évènements extrêmes et leurs effets sur la pollution des eaux<br>
 &emsp; - Réalisation d'une plateforme de restituion pour les sponsors<br>
 
+Formation
+======
+**2018-2019** **M2 Data Science X-Paris Saclay en parallèle** <i>Saclay (91)</i><br>
+&emsp; - Machine Learning Avancé, Deep Learning, Reinforcement Learning, Online Learning, Bayesian Learning, ...
 
+**2015-2019** **Cycle ingénieur ENSTA Paris** <i>Palaiseau (91)</i><br>
+&emsp; - 1ère année : Tronc commun mathématiques, informatique, mécanique<br>
+&emsp; - 2ème année : Simulation et Ingénierie Mathématiques<br>
+&emsp; - 3ème année : Science et Optimisation des Données (Module électif : Biologie et Santé)
+
+**2013-2015** **Classe préparatoire au lycée Louis Le Grand** <i>Paris (75)</i><br>
+&emsp; - PSI$^*$ Physique et Sciences de l'Ingénieur 
+
+**2012-2013** **Classe préparatoire au lycée Carnot** <i>Dijon (21)</i><br>
+&emsp; - PCSI Physique Chimie et Sciences de l'Ingénieur
 
   
-Skills
+Centre d'intérêts
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Sports** Handball en compétition, badminton, haute-montagne et bikepacking. Préparation d'un Iron-Man.
+**Musique** Piano (15 ans). Ukulélé.
 
 Publications
 ======
@@ -82,12 +80,10 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Enseignement
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- Statistiques descriptives 1 & 2 (L2 MIASHS)
+- Programmation Web (L3 Informatique)
+- Intelligence Artificielle (L3 Informatique)
+- Encadrement d’un projet du Master Humanités Numériques
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
