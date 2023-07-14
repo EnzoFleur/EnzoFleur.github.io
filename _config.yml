@@ -13,7 +13,7 @@ name                     : &name "Enzo Terreau"
 description              : &description "PhD student in Computer Science & Applied Mathematics"
 url                      : https://enzofleur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "EnzoFleur/enzofleur.github.io"
+repository               : "enzofleur.github.io"
 teaser                   : #"bio_photo_enzo.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
