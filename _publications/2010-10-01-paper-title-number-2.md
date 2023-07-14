@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Capturing Style in Author and Document Representation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+permalink: /publication/ICTAI_2023_VADES.pdf
+excerpt: 'This article develops an author and document embedding model capturing writing style, based on the VIB framework.'
+date: 2023
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: ''
+citation: 'E. Terreau, A. Gourru, and J. Velcin, “Capturing Style in Author and Document Representation.”, 2023'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This article develops an author and document embedding model capturing writing style, based on the VIB framework.
+It is currently under reviewing process.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: E. Terreau, A. Gourru, and J. Velcin, “Capturing Style in Author and Document Representation.”, 2023

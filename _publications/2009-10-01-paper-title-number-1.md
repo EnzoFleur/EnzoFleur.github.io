@@ -1,15 +1,21 @@
 ---
-title: "Paper Title Number 1"
+title: "Writing Style Author Embedding Evaluation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2021.eval4nlp-1.9.pdf
+excerpt: 'This article develops an evaluation framework for author and document embedding models focusing on writing style.'
+date: 2021-11-07
+venue: 'Proceedings of the 2nd Workshop on Evaluation and Comparison of NLP Systems, EMNLP 2021'
+paperurl: 'https://aclanthology.org/2021.eval4nlp-1.9.pdf'
+citation: 'E. Terreau, A. Gourru, and J. Velcin, “Writing style author embedding
+evaluation,” in Proceedings of the 58th Annual Meeting of the ACL, 2nd
+Workshop on Evaluation and Comparison of NLP Systems, pp. 84–93,
+2021.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Cet article propose un framework d'évaluation pour les modèles de plongements d'auteurs et de documents se focalisant sur le style littéraire.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://aclanthology.org/2021.eval4nlp-1.9.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation:E. Terreau, A. Gourru, and J. Velcin, “Writing style author embedding
+evaluation,” in <i>Proceedings of the 58th Annual Meeting of the ACL, 2nd
+Workshop on Evaluation and Comparison of NLP Systems</i>, pp. 84–93,
+2021.
