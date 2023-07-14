@@ -9,11 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formation
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**2018-2019** <i>Saclay (91)</i> M2 Data Science X-Paris Saclay en parallèle
+&emsp; - Machine Learning Avancé, Deep Learning, Reinforcement Learning, Online Learning, Bayesian Learning, Modèles à effets mixtes, ...
+
+**2015-2019** <i>Palaiseau (91)</i> Cycle ingénieur ENSTA Paris
+&emsp; - 1ère année : Tronc commun mathématiques, informatique, mécanique
+&emsp; - 2ème année : Simulation et Ingénierie Mathématiques
+&emsp; - 3ème année : Science et Optimisation des Données (Module électif : Biologie et Santé)
+
+**2013-2015** <i>Paris (75)</i> Classe préparatoire au lycée Louis Le Grand
+&emsp; - PSI$^*$ Physique et Sciences de l'Ingénieur 
+
+**2012-2013** <i>Dijon (21)</i> Classe préparatoire au lycée Carnot
+&emsp; - PCSI Physique Chimie et Sciences de l'Ingénieur
 
 Work experience
 ======
