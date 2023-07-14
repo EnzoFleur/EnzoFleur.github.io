@@ -9,6 +9,6 @@ paperurl: ''
 citation: 'E. Terreau, A. Gourru, and J. Velcin, “Capturing Style in Author and Document Representation.”, 2023'
 ---
 This article develops an author and document embedding model capturing writing style, based on the VIB framework.
-It is currently under reviewing process but is available [here](https://github.com/EnzoFleur/EnzoFleur.github.io/blob/master/files/ICTAI_2023_VADES.pdf).
+It is currently under reviewing process but is available [here](https://enzofleur.github.io/files/ICTAI_2023_VADES.pdf).
 
 Recommended citation: E. Terreau, A. Gourru, and J. Velcin, “Capturing Style in Author and Document Representation.”, 2023
