@@ -1,7 +1,7 @@
 ---
 title: "Capturing Style in Author and Document Representation"
 collection: publications
-permalink: /publications/ICTAI_2023_VADES.pdf
+permalink: /publications/2009-10-01-paper-title-number-1
 excerpt: 'This article develops an author and document embedding model capturing writing style, based on the VIB framework.'
 date: 2023-01-01
 venue: 'en cours de soumission'
