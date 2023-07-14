@@ -1,7 +1,7 @@
 ---
 title: "Writing Style Author Embedding Evaluation"
 collection: publications
-permalink: /publications/2010-10-01-paper-title-number-1
+permalink: /publications/2021.eval4nlp-1.9.pdf
 excerpt: 'This article develops an evaluation framework for author and document embedding models focusing on writing style.'
 date: 2021-11-07
 venue: 'Proceedings of the 2nd Workshop on Evaluation and Comparison of NLP Systems, EMNLP 2021'
