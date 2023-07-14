@@ -11,31 +11,29 @@ redirect_from:
 
 Formation
 ======
-**2018-2019** <i>Saclay (91)</i> M2 Data Science X-Paris Saclay en parallèle<br>
+**2018-2019** **M2 Data Science X-Paris Saclay en parallèle** <i>Saclay (91)</i><br>
 &emsp; - Machine Learning Avancé, Deep Learning, Reinforcement Learning, Online Learning, Bayesian Learning, ...
 
-**2015-2019** <i>Palaiseau (91)</i> Cycle ingénieur ENSTA Paris<br>
+**2015-2019** **Cycle ingénieur ENSTA Paris** <i>Palaiseau (91)</i><br>
 &emsp; - 1ère année : Tronc commun mathématiques, informatique, mécanique<br>
 &emsp; - 2ème année : Simulation et Ingénierie Mathématiques<br>
 &emsp; - 3ème année : Science et Optimisation des Données (Module électif : Biologie et Santé)
 
-**2013-2015** <i>Paris (75)</i> Classe préparatoire au lycée Louis Le Grand<br>
+**2013-2015** **Classe préparatoire au lycée Louis Le Grand** <i>Paris (75)</i><br>
 &emsp; - PSI$^*$ Physique et Sciences de l'Ingénieur 
 
-**2012-2013** <i>Dijon (21)</i> Classe préparatoire au lycée Carnot<br>
+**2012-2013** **Classe préparatoire au lycée Carnot** <i>Dijon (21)</i><br>
 &emsp; - PCSI Physique Chimie et Sciences de l'Ingénieur
 
 Expériences professionnelles
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**2020-2023** **Doctorat en Informatique au Laboratoire ERIC (Université Lyon 2)** <i>Lyon (69)</i><br>
+Structuration automatique des données de la littérature francophone nativement numérique
+&emsp; - <i>Writing Style Author Embedding Evaluation</i> [lien vers la publication](https://aclanthology.org/2021.eval4nlp-1.9.pdf)<br>
+&emsp; - <i>Capturing Style in Author and Document Representation</i> [en cours de soumission]()
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+
   
 Skills
 ======
