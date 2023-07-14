@@ -4,7 +4,7 @@ collection: publications
 permalink: /files/ICTAI_2023_VADES.pdf
 excerpt: 'This article develops an author and document embedding model capturing writing style, based on the VIB framework.'
 date: 2023-01-01
-venue: 'Journal 1'
+venue: 'en cours de soumission'
 paperurl: ''
 citation: 'E. Terreau, A. Gourru, and J. Velcin, “Capturing Style in Author and Document Representation.”, 2023'
 ---
