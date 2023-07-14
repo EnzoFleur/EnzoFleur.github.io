@@ -61,11 +61,10 @@ Formation
 
 **2012-2013** **Classe préparatoire au lycée Carnot** <i>Dijon (21)</i><br>
 &emsp; - PCSI Physique Chimie et Sciences de l'Ingénieur
-
   
 Centre d'intérêts
 ======
-**Sports** Handball en compétition, badminton, haute-montagne et bikepacking. Préparation d'un Iron-Man.
+**Sports** Handball en compétition, badminton, haute-montagne et bikepacking. Préparation d'un Iron-Man.<br>
 **Musique** Piano (15 ans). Ukulélé.
 
 Publications
