@@ -18,7 +18,7 @@ Expériences professionnelles
 **2020-2023** **Doctorat en Informatique au Laboratoire ERIC (Université Lyon 2)** <i>Lyon (69)</i><br>
 Structuration automatique des données de la littérature francophone nativement numérique<br>
 &emsp; - <i>Writing Style Author Embedding Evaluation</i> [lien vers la publication](https://aclanthology.org/2021.eval4nlp-1.9.pdf)<br>
-&emsp; - <i>Capturing Style in Author and Document Representation</i> en cours de soumission<br>
+&emsp; - Author and document embedding model with writing style en cours de soumission<br>
 &emsp; - Représentant des doctorants au conseil de laboratoire<br>
 &emsp; - Participation au projet LIFRANUM
 
@@ -64,7 +64,7 @@ Formation
   
 Centre d'intérêts
 ======
-**Sports** Handball en compétition, haute-montagne et bikepacking. Préparation d'un Iron-Man.<br>
+**Sports** Handball en compétition, haute-montagne et bikepacking.<br>
 **Musique** Piano (15 ans). Ukulélé.
 
 Publications
