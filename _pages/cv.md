@@ -81,8 +81,9 @@ Talks
   
 Enseignement
 ======
-- Statistiques descriptives 1 & 2 (L2 MIASHS)
-- Programmation Web (L3 Informatique)
-- Intelligence Artificielle (L3 Informatique)
-- Encadrement d’un projet du Master Humanités Numériques
+- Statistiques descriptives 1 & 2 (L2 MIASHS) - 50h
+- Programmation Web (L3 Informatique) - 24h
+- Intelligence Artificielle (L3 Informatique) - 15h
+- Encadrement d’un projet du Master Humanités Numériques - 10h
+- Programmation Python 
   
